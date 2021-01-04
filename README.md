@@ -2,7 +2,7 @@
 I'm a noobie at coding. Hopefully in the future I can help other repositories 😃
 
 # Current Projects
-_None as of now.
+_None as of Now.
 
 
 
