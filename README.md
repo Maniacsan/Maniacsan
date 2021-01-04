@@ -9,7 +9,3 @@ _None as of Now._
 <p align="left">
   <img width="200" src="https://github.com/Maniacxxx/Maniacxxx/blob/main/github_avatar.jpg?raw=true" alt="The picture from my Avatar"/>
 </p>
-
-test
-- [x] this is a complete item
-- [ ] this is an incomplete item
