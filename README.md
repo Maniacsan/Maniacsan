@@ -11,5 +11,4 @@ Maniac
 - [Maniacxxx/startpage](https://github.com/Maniacxxx/startpage) - My startpage for my browser
 - [Minecraft-Anarchy/anarchy-servers](https://github.com/Minecraft-Anarchy/anarchy-servers) - List of Minecraft Anarchy Servers
 - [Maniacxxx/hardcore-pack](https://github.com/Maniacxxx/hardcore-pack) - My Minecraft Hardcore Resource Pack
-- [Maniacxxx/blooket-multitool](https://github.com/Maniacxxx/blooket-multitool) - Blooket Hack (probably doesnt work)
-- [Maniacxxx/LoggerBot](https://github.com/Maniacxxx/LoggerBot) - Simple logging in the terminal with a Discord bot
+- [Maniacxxx/LoggerBot](https://github.com/Maniacxxx/LoggerBot) - A Simple Discord Loggin Bot
