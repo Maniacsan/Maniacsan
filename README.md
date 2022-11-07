@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="pfp.jpg"> 
+
 Maniac
 ===
 ***My Projects***
