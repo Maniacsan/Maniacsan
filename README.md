@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="pfp.jpg" style="width:150px;height:150px;> 
+<img src="pfp.jpg" width="150px" height="150px"> 
 
 Maniac
 ===
