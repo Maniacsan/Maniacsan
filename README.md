@@ -8,9 +8,10 @@ Maniac
 
 </div>
 
-- [Maniacxxx/dotfiles](https://github.com/Maniacxxx/dotfiles) - My dotfiles
+- [Maniacsan/dotfiles](https://github.com/Maniacsan/dotfiles) - My dotfiles
+- [Maniacsan/discord-bot](https://github.com/Maniacsan/discord-bot) - Custom Discord bot for my server.
 - [Minecraft-Anarchy/minecraft-hack-clients](https://github.com/Minecraft-Anarchy/minecraft-hack-clients) - List of Minecraft Hack Clients
-- [Maniacxxx/startpage](https://github.com/Maniacxxx/startpage) - My startpage for my browser
+- [Maniacsan/startpage](https://github.com/Maniacsan/startpage) - My startpage for my browser
 - [Minecraft-Anarchy/anarchy-servers](https://github.com/Minecraft-Anarchy/anarchy-servers) - List of Minecraft Anarchy Servers
-- [Maniacxxx/hardcore-pack](https://github.com/Maniacxxx/hardcore-pack) - My Minecraft Hardcore Resource Pack
-- [Maniacxxx/LoggerBot](https://github.com/Maniacxxx/LoggerBot) - A Simple Discord Loggin Bot
+- [Maniacsan/hardcore-pack](https://github.com/Maniacsan/hardcore-pack) - My Minecraft Hardcore Resource Pack
+- [Maniacsan/LoggerBot](https://github.com/Maniacsan/LoggerBot) - A Simple Discord Loggin Bot
